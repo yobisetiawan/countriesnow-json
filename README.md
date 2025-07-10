@@ -1,6 +1,6 @@
-# Countries Project
+# Countries
 
-This project provides data and functionality related to countries. It is implemented in Node.js.
+This project provides data and functionality related to countries.
 
 ## Project Structure
 
@@ -23,6 +23,3 @@ This project provides data and functionality related to countries. It is impleme
 
 You can modify or extend `index.js` to add more features or process the country data as needed.
 
-## License
-
-Specify your license here.
